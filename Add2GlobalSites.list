@@ -5,6 +5,8 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,mercari.com
 DOMAIN-SUFFIX,mercari.jp
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,criteo.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,apple
