@@ -3,11 +3,10 @@
 # 域名后缀匹配
 # DOMAIN-SUFFIX,time.windows.com
 # DOMAIN-SUFFIX,apple.com
-# DOMAIN-SUFFIX,jp.mercari.com
-# DOMAIN-KEYWORD,mercari.jp
-# DOMAIN-SUFFIX,yahooapis.jp
-# DOMAIN-SUFFIX,criteo.com
-DOMAIN-SUFFIX,geolocation.com
+DOMAIN-SUFFIX,jp.mercari.com
+DOMAIN-KEYWORD,mercari.jp
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,criteo.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,apple
