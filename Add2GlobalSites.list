@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,mercari.com
 DOMAIN-KEYWORD,mercari.jp
 DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,geolocation.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,apple
