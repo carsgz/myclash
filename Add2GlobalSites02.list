@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,geolocation.com
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ghp.ci
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,apple
