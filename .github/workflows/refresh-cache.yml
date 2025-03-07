@@ -1,0 +1,20 @@
+name: Refresh Raw Cache
+
+on:
+  push:
+    branches:
+      - main  # 你的默认分支是 main
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Purge CDN Cache
+        run: |
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Add2GlobalSites02.list"
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Clash-mini08"
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Direct_add.list"
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Add2AI1.list"
