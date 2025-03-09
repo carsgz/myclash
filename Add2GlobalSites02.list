@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,geolocation.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,www.linuxv2ray.com
 DOMAIN,aaatest.com
 
 # 域名关键字匹配
