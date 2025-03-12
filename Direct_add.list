@@ -19,9 +19,6 @@ DOMAIN-KEYWORD,kumon
 # DDNS check ip
 DOMAIN-SUFFIX,wtfismyip.com
 
-# Check IP
-DOMAIN-SUFFIX,wtfismyip.com
-
 # EEVBlog.com
 DOMAIN-KEYWORD,eevblog
 DOMAIN-SUFFIX,eevblog.com
