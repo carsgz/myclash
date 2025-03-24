@@ -1,0 +1,6 @@
+# 添加下列站点到“Buyee”
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,time.windows.com
+# DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,buyee.jp
