@@ -15,7 +15,7 @@ jobs:
       - name: Purge CDN Cache
         run: |
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Add2GlobalSites02.list"
-          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Clash-mini08"
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Clash-mini09.ini"
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Clash-mini10.ini"
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Direct_add.list"
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Add2buyee.list"
