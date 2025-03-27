@@ -1,0 +1,36 @@
+# 添加下列站点到“国外”
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,time.windows.com
+# DOMAIN-SUFFIX,apple.com
+DOMAIN-KEYWORD,mercari.com
+DOMAIN-KEYWORD,mercari
+DOMAIN-KEYWORD,kleinanzeigen
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,geolocation.com
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,www.linuxv2ray.com
+DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,aleado.com
+DOMAIN-SUFFIX,chiccams.com
+DOMAIN,ddddddd.com
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,apple
+
+# IP段匹配
+# IP-CIDR,219.146.1.66/32,no-resolve
+
+# Telegram IP
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.56.0/24,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,67.198.55.0/24,no-resolve
+
+# Kumon
+# DOMAIN-KEYWORD,youtube
+
+# this row is for test
