@@ -20,3 +20,4 @@ jobs:
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Clash-mini11.ini"
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Direct_add01.list"
           curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/Add2buyee.list"
+          curl -X PURGE "https://raw.githubusercontent.com/carsgz/myclash/main/ChinaDNS.list"
