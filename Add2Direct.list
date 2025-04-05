@@ -1,0 +1,36 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+# DOMAIN-SUFFIX,time.windows.com
+# DOMAIN-SUFFIX,lanzov.com
+# DOMAIN-SUFFIX,hao123.com
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+# IP-CIDR,219.146.1.66/32,no-resolve
+
+# Kumon
+DOMAIN-KEYWORD,kumon
+
+# DDNS check ip
+# DOMAIN-SUFFIX,wtfismyip.com
+DOMAIN,checkip.synology.com
+
+# EEVBlog.com
+DOMAIN-KEYWORD,eevblog
+DOMAIN-SUFFIX,eevblog.com
+
+# VPS
+DOMAIN-SUFFIX,carsidea.uk
+DOMAIN-SUFFIX,carsboke.uk
+DOMAIN-SUFFIX,lostingz.com
+IP-CIDR,199.19.108.3/32,no-resolve
+IP-CIDR,64.64.228.25/32,no-resolve
+IP-CIDR,216.24.190.54/32,no-resolve
+
+# 银河录像局
+DOMAIN-SUFFIX,nf.video
