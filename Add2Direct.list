@@ -34,3 +34,10 @@ IP-CIDR,216.24.190.54/32,no-resolve
 
 # 银河录像局
 DOMAIN-SUFFIX,nf.video
+
+# China DNS domain
+DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,360.cn
+DOMAIN-SUFFIX,onedns.net
