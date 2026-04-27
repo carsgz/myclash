@@ -29,12 +29,13 @@ DOMAIN-SUFFIX,carsidea.uk
 DOMAIN-SUFFIX,carsboke.uk
 DOMAIN-SUFFIX,lostingz.com
 IP-CIDR,199.19.108.3/32,no-resolve
-IP-CIDR,64.64.228.25/32,no-resolve
+# IP-CIDR,64.64.228.25/32,no-resolve
 IP-CIDR,216.24.190.54/32,no-resolve
 IP-CIDR,74.211.101.121/32,no-resolve
 
-# 银河录像局
+# 银河录像局 hezu.pro
 DOMAIN-SUFFIX,nf.video
+DOMAIN-SUFFIX,hezu.pro
 
 # China DNS domain
 DOMAIN-SUFFIX,alidns.com
