@@ -24,6 +24,10 @@ DOMAIN,checkip.synology.com
 DOMAIN-KEYWORD,eevblog
 DOMAIN-SUFFIX,eevblog.com
 
+# hoyoyo.com
+DOMAIN-KEYWORD,hoyoyo
+DOMAIN-SUFFIX,hoyoyo.com
+
 # VPS
 DOMAIN-SUFFIX,carsidea.uk
 DOMAIN-SUFFIX,carsboke.uk
